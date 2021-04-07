@@ -3,9 +3,7 @@ author:
   name: thinpig99
   email: thinpig99@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  이 블로그는 순전히 복습용으로 만든 블로그입니다. 설명이 다소 빈약할 수 있습니다. 자세한 설명을 원하시면 포스팅 하단의 출처를 타고 가세요.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
