@@ -1,5 +1,5 @@
 ---
-title: "배깅과 부스팅의 !"
+title: "배깅과 부스팅의 차이가 뭔데?!"
 date: 2021-04-26 14:57:28 -0400
 categories: MachineLearning
 ---
